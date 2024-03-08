@@ -29,3 +29,5 @@ No repositório há um arquivo em PDF que possui <a href="https://github.com/Mat
 ![Imagem 2](https://github.com/MatheusMutti/ProjetoIntegrador/blob/main/Img2.jpg "Imagem 2")
 ![Imagem 3](https://github.com/MatheusMutti/ProjetoIntegrador/blob/main/Img3.jpg "Imagem 3")
 
+<h2> 🤝 Fins didáticos </h2>
+<p>Este projeto foi criado para fins de estudo dos alunos de Análise e Desenvolvimento de Sistemas do Senac.</p>
