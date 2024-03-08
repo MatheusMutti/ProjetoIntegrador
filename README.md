@@ -25,9 +25,18 @@ No repositório há um arquivo em PDF que possui <a href="https://github.com/Mat
 
 <p>Os diagramas de uso são uma ferramenta de modelagem que descreve a interação entre um sistema e seus usuários, focando nas ações que os usuários realizam no sistema para alcançar seus objetivos. Esses diagramas são utilizados no desenvolvimento de software durante as fases de análise e design para capturar os requisitos do sistema e fornecer uma representação visual das interações do usuário.</p>
 
-![Imagem 1](https://github.com/MatheusMutti/ProjetoIntegrador/blob/main/Img1.jpg "Imagem 1")
-![Imagem 2](https://github.com/MatheusMutti/ProjetoIntegrador/blob/main/Img2.jpg "Imagem 2")
-![Imagem 3](https://github.com/MatheusMutti/ProjetoIntegrador/blob/main/Img3.jpg "Imagem 3")
+<p align="center">
+  <img src="https://github.com/MatheusMutti/ProjetoIntegrador/blob/main/Img1.jpg" alt="Imagem 1" title="Imagem 1">
+</p>
+
+<p align="center">
+  <img src="https://github.com/MatheusMutti/ProjetoIntegrador/blob/main/Img2.jpg" alt="Imagem 2" title="Imagem 2">
+</p>
+
+<p align="center">
+  <img src="https://github.com/MatheusMutti/ProjetoIntegrador/blob/main/Img3.jpg" alt="Imagem 3" title="Imagem 3">
+</p>
+
 
 <h2> 🤝 Fins didáticos </h2>
 <p>Este projeto foi criado para fins de estudo dos alunos de Análise e Desenvolvimento de Sistemas do Senac.</p>
